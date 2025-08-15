@@ -40,23 +40,6 @@ Built to deliver **fast, secure, and responsive communication**, this app offers
 - [Firebase Firestore](https://firebase.google.com/docs/firestore) – Real-time database
 
 
-
- 📂 Project Structure
-chat-app/
-│
-├── public/ # Static files
-├── src/
-│ ├── components/ # Reusable UI components
-│ ├── pages/ # Page-level components
-│ ├── context/ # Context API state management
-│ ├── services/ # Firebase configuration & functions
-│ ├── styles/ # Styled-components themes
-│ └── App.js # Main app entry
-│
-├── package.json
-└── README.md
-
-
  Installation & Setup
 
 Follow these steps to run the project locally:
@@ -91,7 +74,7 @@ Follow these steps to run the project locally:
 PROJECT IMAGES : 
 <img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/a04a576b-5646-46c8-be28-b4ca6a027fa4" />
 <img width="1911" height="915" alt="image" src="https://github.com/user-attachments/assets/70d5d9fe-0009-44f9-90dc-edf0ee79da50" />
-<img width="643" height="393" alt="image" src="https://github.com/user-attachments/assets/a34ceda2-833f-40ca-aa75-4c7dc2c89e58" />
+<img width="1911" height="917" alt="image" src="https://github.com/user-attachments/assets/a4295a43-3283-4778-ac91-fa5b82a1055d" />
 <img width="1915" height="923" alt="image" src="https://github.com/user-attachments/assets/e2b537dd-5a7c-4389-a4d9-a75265000e41" />
 
 Preview live : https://chatter-appp.netlify.app/
